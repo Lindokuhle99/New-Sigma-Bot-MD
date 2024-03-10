@@ -18,8 +18,8 @@
 
 /**
 
-* @project_name : SIGMA-MD
-* @Developer : Maher-Zubair
+* @project_name : Lindo SIGMA-MD Bot
+* @Developer : Lindokuhle Designs
 * @Version : v.1.5.3
 * @license : Apache-2.0
 
@@ -75,7 +75,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/0087a0f
 module.exports = {
 
   //==============================[COMPULSORY]=====================================
-  sessionName: process.env.SESSION_ID || '',              // PUT YOUR SESSION ID
+  sessionName: process.env.SESSION_ID || '10_03_2024_SIGMA_MD_TXtX8NBt_MAHER_ZUBAIR',              // PUT YOUR SESSION ID
   botname: process.env.BOT_NAME       || 'Lindo sɪɢᴍᴀ-ᴍᴅ',         // ADD YOUR BOT NAME
   ownername:  process.env.OWNER_NAME  || `Lindokuhle Designs`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
