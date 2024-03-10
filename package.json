@@ -1,14 +1,14 @@
 {
   "name": "Lindo sigma-md",
   "version": "1.5.3",
-  "description": "A CRAZY WHATSAPP BOT BY Maher Zubair",
+    "description": "A CRAZY WHATSAPP BOT BY LINDOKUHLE",
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
       "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
       "stop": "pm2 stop SIGMA-MD"
   },
-  "author": "Lindokuhle Designs",
+  "author": "Lindkuhle Designs",
   "license": "Apache-2.0",
   "keywords": [
       "bot",
@@ -17,10 +17,10 @@
       "sigma",
       "sigma-md bot",
       "SIGMA-MD",
-      "Lindokuhle Designs"
+      "Maher-Zubair",
       "Multi-Device Bot",
       "WaBot",
-      "Lindos Bot"
+      "Baileys Bot"
   ],
   "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
