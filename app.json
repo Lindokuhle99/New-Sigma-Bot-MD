@@ -18,11 +18,11 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "Lindokuhle Designs"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
-      "value": "https://telegra.ph/file/03e49e6e2057568db8926.jpg"
+      "value": "https://telegra.ph/file/0087a0f2c1bc2446e4ce5.png"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -59,10 +59,10 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "27657006860"
     },
     "SESSION_ID": {
-      "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
+      "description": "10_03_2024_SIGMA_MD_TXtX8NBt_MAHER_ZUBAIR"
     },
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -79,12 +79,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "sɪɢᴍᴀ-ᴍᴅ",
+      "value": "Lindokuhle Bot",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author Name.",
-      "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+      "value": "Lindokuhle Bot",
       "required": false
     },
     "MZTIT": {
@@ -94,11 +94,11 @@
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "south africa/johannesburg"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
-      "value": "sɪɢᴍᴀ-ᴍᴅ"
+      "value": "Lindokuhle Bot"
     }
   },
   "addons": [
